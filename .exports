@@ -1,0 +1,6 @@
+
+# Make emacs the default editor
+export EDITOR="emacs"
+
+# Path modifications
+export PATH=/usr/local/bin:$PATH
